@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "244619099672",
+    "firebase_url": "https://vrstest-cecil.firebaseio.com",
+    "project_id": "vrstest-cecil",
+    "storage_bucket": "vrstest-cecil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244619099672:android:ce8ade9432c98bbf",
+        "android_client_info": {
+          "package_name": "com.example.cecildot.preprojecttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244619099672-ib2rck8dtmda4farforthpuaitdtrdqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqK0vy2XOZj5hLOy8PfHr9Gf8LkB1LX3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
